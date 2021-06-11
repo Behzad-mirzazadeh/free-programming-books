@@ -66,6 +66,7 @@
 
 #### Laravel
 
+* [لاراول](https://jobteam.ir/category/Laravel) - behzad mirzazadeh
 * [آموزش کاربردی پکیج Laravel Excel - سکان‌آکادمی](https://sokanacademy.com/courses/laravelexcel) - Sokan Academy
 * [آموزش لاراول](https://roocket.ir/series/learn-laravel) - Hesam Mousavi
 * [آموزش لاراول](http://www.alefyar.com/laravel-tutorial) - Abolfazl Talebi
